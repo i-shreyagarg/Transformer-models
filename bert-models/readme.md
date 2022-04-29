@@ -7,9 +7,9 @@ The file bert-models.ipynb contains four models for which the Similarity Score a
 4. Distil Roberta
 
 Dataset: https://www.kaggle.com/competitions/quora-question-pairs/data
-*P.S. - The maximum Similarity Score and the Fastest Time has been marked bold.
 
-      - Entries are assumed to start from 0*
+*P.S. : The maximum Similarity Score and the Fastest Time has been marked bold.*
+*P.S. : Entries are assumed to start from 0*
       
 **albert.csv**
 
