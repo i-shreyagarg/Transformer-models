@@ -9,8 +9,11 @@ The file bert-models.ipynb contains four models for which the Similarity Score a
 Dataset: https://www.kaggle.com/competitions/quora-question-pairs/data
 
 *P.S. : The maximum Similarity Score and the Fastest Time has been marked bold.*
+
 *P.S. : Entries are assumed to start from 0*
-      
+    
+    
+    
 **albert.csv**
 
 The file albert.csv contains the maximum Similarity Score and the Time Taken for 30 values of the Dataset.
@@ -19,6 +22,8 @@ The file albert.csv contains the maximum Similarity Score and the Time Taken for
 | -------| -------------| -----------------|---------------------|
 | Albert |   14         | `0.9936742`      | 0.188368320465087   |
 | Albert |   16         | 0.97291106       | `0.0877101421356201`|
+
+
 
 
 **roberta.csv**
@@ -31,6 +36,8 @@ The file roberta.csv contains the maximum Similarity Score and the Time Taken fo
 | Roberta |   16         | 0.998296         | `0.09873628616333`  |
 
 
+
+
 **bert.csv**
 
 The file bert.csv contains the maximum Similarity Score and the Time Taken for 30 values of the Dataset.
@@ -39,6 +46,8 @@ The file bert.csv contains the maximum Similarity Score and the Time Taken for 3
 | -------| -------------| -----------------|---------------------|
 | Bert   |   13         | `0.9905555`      | 0.10261058807373    |
 | Bert   |   16         | 0.9905491        | `0.0988445281982421`|
+
+
 
 
 **ditil_roberta.csv**
