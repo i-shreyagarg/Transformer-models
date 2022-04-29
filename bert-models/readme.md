@@ -56,5 +56,5 @@ The file distil_roberta.csv contains the maximum Similarity Score and the Time T
 
 | Model  | Entry Number | Similarity Score | Time taken          |
 | -------| -------------| -----------------|---------------------|
-| Albert |   13         | `0.9928284`      | 0.054067850112915   |
-| Albert |   16         | 0.990821         | `0.0506410598754882`|
+| Distil Roberta |   13         | `0.9928284`      | 0.054067850112915   |
+| Distil Roberta |   16         | 0.990821         | `0.0506410598754882`|
