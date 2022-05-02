@@ -6,8 +6,12 @@ The file bert-models.ipynb contains four models for which the Accuracy and Respo
 3. Bert
 4. Distil Roberta
 
+Dataset: https://www.kaggle.com/competitions/quora-question-pairs/data
+   
+
 ### Queries Processed
 The files "albert.csv", "roberta.csv", "bert.csv" and "ditil_roberta.csv" contains the maximum Similarity Score and the Time Taken for 30 values of the Dataset.
+*P.S. : Entries are assumed to start from 0*
 
 ### Results
 From all the Queries Processed the average Similarity Score and the average Time Taken on the sample set was found out:
@@ -26,12 +30,7 @@ From the Results it could be concluded that “Roberta” model was the best fit
 
 
 
-Dataset: https://www.kaggle.com/competitions/quora-question-pairs/data
 
-*P.S. : The maximum Similarity Score and the Fastest Time has been marked bold.*
-
-*P.S. : Entries are assumed to start from 0*
-    
     
  
  
