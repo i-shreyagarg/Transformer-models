@@ -6,6 +6,14 @@ The file bert-models.ipynb contains four models for which the Similarity Score a
 3. Bert
 4. Distil Roberta
 
+|Model	       |SoC Processed|Similarity Score|	Time Taken ( in sec)|
+|--------------|-------------|----------------| |
+|Albert	       |30	         |92.16%	      |0.12|
+|`Roberta`     |`30`	     |`98.69%`	      |`0.13`|
+|Bert	       |30	         |80.60%	      |0.13|
+|Distil Roberta|30	         |71.46%	      |0.07|
+
+
 Dataset: https://www.kaggle.com/competitions/quora-question-pairs/data
 
 *P.S. : The maximum Similarity Score and the Fastest Time has been marked bold.*
