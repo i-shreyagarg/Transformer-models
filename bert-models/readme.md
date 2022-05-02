@@ -7,7 +7,7 @@ The file bert-models.ipynb contains four models for which the Similarity Score a
 4. Distil Roberta
 
 |Model	       |SoC Processed|Similarity Score|	Time Taken ( in sec)|
-|--------------|-------------|----------------| |
+|--------------|-------------|----------------|--------- |
 |Albert	       |30	         |92.16%	      |0.12|
 |`Roberta`     |`30`	     |`98.69%`	      |`0.13`|
 |Bert	       |30	         |80.60%	      |0.13|
