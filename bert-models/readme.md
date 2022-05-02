@@ -1,4 +1,4 @@
-###bert-models.ipynb
+##bert-models.ipynb
 
 The file bert-models.ipynb contains four models for which the Accuracy and Response Time was calculated:
 1. Albert
@@ -6,10 +6,10 @@ The file bert-models.ipynb contains four models for which the Accuracy and Respo
 3. Bert
 4. Distil Roberta
 
-###Queries Processed
+##Queries Processed
 The files "albert.csv", "roberta.csv", "bert.csv" and "ditil_roberta.csv" contains the maximum Similarity Score and the Time Taken for 30 values of the Dataset.
 
-###Results
+##Results
 From all the Queries Processed the average Similarity Score and the average Time Taken on the sample set was found out:
 
 |Model	       |SoC Processed|Similarity Score|	Time Taken ( in sec)|
@@ -19,7 +19,7 @@ From all the Queries Processed the average Similarity Score and the average Time
 |Bert	       |30	         |80.60%	      |0.13|
 |Distil Roberta|30	         |71.46%	      |0.07|
 
-###Conculsion
+##Conculsion
 From the Results it could be concluded that “Roberta” model was the best fit according to the Similarity Score and Time Taken.
 
 
