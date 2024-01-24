@@ -1,4 +1,4 @@
-# Trasnformer-models
+# Transformer-models
 This repository contains working of 3 types of models:
 1. Bert
 2. Word2Vec
